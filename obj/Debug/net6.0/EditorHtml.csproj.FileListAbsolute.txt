@@ -1,0 +1,15 @@
+c:\Users\USER\Documents\Erickson\aulas\dotnet\EditorHtml\bin\Debug\net6.0\EditorHtml.exe
+c:\Users\USER\Documents\Erickson\aulas\dotnet\EditorHtml\bin\Debug\net6.0\EditorHtml.deps.json
+c:\Users\USER\Documents\Erickson\aulas\dotnet\EditorHtml\bin\Debug\net6.0\EditorHtml.runtimeconfig.json
+c:\Users\USER\Documents\Erickson\aulas\dotnet\EditorHtml\bin\Debug\net6.0\EditorHtml.dll
+c:\Users\USER\Documents\Erickson\aulas\dotnet\EditorHtml\bin\Debug\net6.0\EditorHtml.pdb
+c:\Users\USER\Documents\Erickson\aulas\dotnet\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.AssemblyReference.cache
+c:\Users\USER\Documents\Erickson\aulas\dotnet\EditorHtml\obj\Debug\net6.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Documents\Erickson\aulas\dotnet\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfoInputs.cache
+c:\Users\USER\Documents\Erickson\aulas\dotnet\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfo.cs
+c:\Users\USER\Documents\Erickson\aulas\dotnet\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.CoreCompileInputs.cache
+c:\Users\USER\Documents\Erickson\aulas\dotnet\EditorHtml\obj\Debug\net6.0\EditorHtml.dll
+c:\Users\USER\Documents\Erickson\aulas\dotnet\EditorHtml\obj\Debug\net6.0\refint\EditorHtml.dll
+c:\Users\USER\Documents\Erickson\aulas\dotnet\EditorHtml\obj\Debug\net6.0\EditorHtml.pdb
+c:\Users\USER\Documents\Erickson\aulas\dotnet\EditorHtml\obj\Debug\net6.0\EditorHtml.genruntimeconfig.cache
+c:\Users\USER\Documents\Erickson\aulas\dotnet\EditorHtml\obj\Debug\net6.0\ref\EditorHtml.dll
